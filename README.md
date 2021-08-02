@@ -1,6 +1,12 @@
 
 I have used React.js to create this app & Redux for it's state management, i've also used Bootstrap for styling.
 
+## Hosting
+
+This site is hosted at Firebase.
+
+you can view it online at - https://todo-00007.web.app/
+
 ## Available Scripts
 
 In the project directory, you can run:

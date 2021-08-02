@@ -1,5 +1,5 @@
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I have used React.js to create this app & Redux for it's state management, i've also used Bootstrap for styling.
 
 ## Available Scripts
 
